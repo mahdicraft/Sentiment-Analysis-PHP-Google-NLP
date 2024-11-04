@@ -1,0 +1,14 @@
+# Positive Comments
+I love this product! It's absolutely fantastic and exceeded my expectations.
+The service was excellent, and I had a great experience.
+Everything went smoothly, and I'm very satisfied with the result.
+
+# Neutral Comments
+This is an average product. It works fine but nothing extraordinary.
+It’s okay. Does the job but not too impressive.
+The delivery was on time, and everything was as expected.
+
+# Negative Comments
+I'm really disappointed with this purchase. It didn't meet my expectations at all.
+The quality was poor, and the product broke after just a few uses.
+I had a terrible experience with the customer service. They were not helpful at all.
